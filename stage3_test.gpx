@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx>
+  <trk>
+    <trkseg>
+    <trkpt lat="-36.76209" lon="175.49927">
+     <time>2015-01-01T23:24:01Z</time>
+    </trkpt>
+      <trkpt lat="-36.76209" lon="175.49927">
+       <time>2015-01-03T23:24:01Z</time>
+      </trkpt>
+       <trkpt lat="-36.76209" lon="175.49927">
+        <time>2015-01-04T01:00:00Z</time>
+       </trkpt>
+       <trkpt lat="-36.76209" lon="175.49927">
+        <time>2015-01-04T06:00:00Z</time>
+       </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
